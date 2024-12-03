@@ -4,22 +4,21 @@ Email: roydonauyrfyp1
 
 # Frontend Instructions:
 **To create the app:**
-Run npx create-expo-app MuteApp --template blank
-Run npm install for dependencies
+1. Run npx create-expo-app MuteApp --template blank
+2. Run npm install for dependencies
 
 **To run the app:**
-npm run start
-Backend commands Running on localhost: 8000
+1. npm run start
 
-# Backend Instructions:
-To create new python venv: python -m venv venv
-To activate venv: .\venv\Scripts\activate.ps1
-To run: Note: For apis to work, the ip address in the config file under components must be changed.
 
-To reload backend: uvicorn main:app --reload (Remove reload once in production)
+# Backend Instructions: (Running on localhost: 8000)
+1. To create new python venv: python -m venv venv
+2. To activate venv: .\venv\Scripts\activate.ps1
+3. To run: Note: For apis to work, the ip address in the config file under components must be changed.
+4. To reload backend: uvicorn main:app --reload (Remove reload once in production)
 
 # Frontend Versions
-Expo: SDK 52
+1. Expo: SDK 52
 
 
 # Backend Versions
