@@ -1,0 +1,31 @@
+
+{
+    "Response 1": {
+        "Matt": "Hey Lee Hang, long time no see? What have you been up to?",
+        "Lee Hang": "Hey Matt, I'm really excited to share that I'll be participating in another hackathon for Citibank!"
+    },
+    "Response 2": {
+        "Matt": "That's awesome, Lee Hang! Congratulations on winning the previous one. What's your strategy this time?",
+        "Lee Hang": "Thanks, Matt! This time, I'm focusing on incorporating more innovative technologies to streamline banking processes."
+    },
+    "Response 3": {
+        "Matt": "Sounds like a solid plan. How are you preparing for the hackathon?",
+        "Lee Hang": "I've been researching the latest trends in fintech and brainstorming ideas to revolutionize the banking experience."
+    },
+    "Response 4": {
+        "Matt": "Impressive! Are you collaborating with anyone for this hackathon?",
+        "Lee Hang": "Yes, I've teamed up with a group of talented developers who share the same passion for innovation. You remember gregory from our class, I'll be working with him."
+    },
+    "Response 5": {
+        "Matt": "That's great to hear. How do you plan to stand out among the other participants?",
+        "Lee Hang": "By presenting a unique solution that not only meets Citibank's needs but also exceeds their expectations in terms of efficiency and user experience."
+    },
+    "Response 6": {
+        "Matt": "I have no doubt you'll do great, Lee Hang. When is the hackathon taking place?",
+        "Lee Hang": "It's happening next month, so I still have some time to fine-tune our project and make sure it's flawless."
+    },
+    "Response 7": {
+        "Matt": "I'll definitely be rooting for you, Lee Hang. Keep me updated on your progress!",
+        "Lee Hang": "Thanks for the support, Matt! I'll be sure to share any exciting developments with you as we get closer to the hackathon date."
+    }
+}

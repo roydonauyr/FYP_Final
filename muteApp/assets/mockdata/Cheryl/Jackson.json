@@ -1,0 +1,50 @@
+{
+    "Response 1": {
+        "Jackson": "Hey Cheryl! What have you been up to?",
+        "Cheryl": "Hey Jackson, I've been wanting to go hiking in Singapore. Any recommendations on where to go?"
+    },
+    "Response 2": {
+        "Jackson": "Hey Cheryl! Sure, I recommend checking out MacRitchie Reservoir for a scenic hike.",
+        "Cheryl": "That sounds great! Is it a challenging trail or more of a leisurely walk?"
+    },
+    "Response 3": {
+        "Jackson": "It's a good mix actually. There are some steep parts but also plenty of flat paths.",
+        "Cheryl": "Perfect, I like a bit of a challenge. Are there any specific highlights along the trail?"
+    },
+    "Response 4": {
+        "Jackson": "Definitely don't miss the TreeTop Walk for a stunning view from above the forest canopy.",
+        "Cheryl": "Wow, that sounds amazing! Is the trail well-marked or do I need a guide?"
+    },
+    "Response 5": {
+        "Jackson": "The trail is well-marked, so you should be fine on your own. Just remember to bring enough water and snacks.",
+        "Cheryl": "Got it, thanks for the tip! How long does the hike usually take to complete?"
+    },
+    "Response 6": {
+        "Jackson": "It usually takes about 3-4 hours to complete the whole trail, depending on your pace.",
+        "Cheryl": "That's not too bad. Is there an entrance fee or any permits required?"
+    },
+    "Response 7": {
+        "Jackson": "No entrance fee, but do register at the entrance for safety purposes.",
+        "Cheryl": "Good to know, safety first! Are there any other hiking spots you recommend in Singapore?"
+    },
+    "Response 8": {
+        "Jackson": "Another great spot is Bukit Timah Nature Reserve for a more challenging hike with steep slopes.",
+        "Cheryl": "Sounds like a good workout! Are there any facilities like restrooms along the trail?"
+    },
+    "Response 9": {
+        "Jackson": "Yes, there are restrooms and water coolers at certain points along the trail at Bukit Timah.",
+        "Cheryl": "That's convenient. Is it usually crowded on weekends or weekdays?"
+    },
+    "Response 10": {
+        "Jackson": "It can get crowded on weekends, so if you prefer a quieter hike, weekdays might be better.",
+        "Cheryl": "I'll keep that in mind, thanks for the heads up. Are there any wildlife sightings to look out for on these hikes?"
+    },
+    "Response 11": {
+        "Jackson": "You might spot some monkeys, squirrels, and various bird species along the trails.",
+        "Cheryl": "That's exciting! I'll make sure to bring my camera. Any other tips for a successful hike in Singapore?"
+    },
+    "Response 12": {
+        "Jackson": "Just be prepared for the weather with sunscreen, insect repellent, and a hat.",
+        "Cheryl": "Will do, thanks for all the advice, Jackson! I can't wait to explore these hiking spots."
+    }
+}

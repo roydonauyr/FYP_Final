@@ -1,0 +1,42 @@
+{
+    "Response 1":{
+        "Jackson": "Hey Gregory, how have you been? Did you travel to anywhere interesting recently?",
+        "Gregory": "Hey Jackson, its been great! Guess what? I just got back from a trip to Europe!"
+    },
+    "Response 2": {
+        "Jackson": "Wow, that's amazing! Which countries did you visit?",
+        "Gregory": "I visited France, Italy, Spain, and Germany."
+    },
+    "Response 3": {
+        "Jackson": "That sounds like an incredible adventure! What was your favorite part of the trip?",
+        "Gregory": "It's hard to choose, but I think exploring the historic streets of Rome was definitely a highlight for me."
+    },
+    "Response 4": {
+        "Jackson": "I can imagine! Did you try any new foods while you were there?",
+        "Gregory": "Oh, definitely! I tried authentic paella in Spain and delicious croissants in France."
+    },
+    "Response 5": {
+        "Jackson": "Yum, that all sounds so delicious! Did you face any challenges during your travels?",
+        "Gregory": "Well, there was a bit of a language barrier in some places, but overall it wasn't too difficult to navigate."
+    },
+    "Response 6": {
+        "Jackson": "That's good to hear. Did you have a favorite landmark that you visited?",
+        "Gregory": "The Eiffel Tower in Paris was absolutely breathtaking, it was definitely a standout for me."
+    },
+    "Response 7": {
+        "Jackson": "I bet the views from up there were amazing! Did you meet any interesting people along the way?",
+        "Gregory": "Yes, I met a couple from Australia who were also traveling through Europe. It was great exchanging travel stories with them."
+    },
+    "Response 8": {
+        "Jackson": "It's always nice to connect with fellow travelers. Any memorable experiences that stood out to you?",
+        "Gregory": "One of the most memorable experiences was watching the sunset over the Amalfi Coast in Italy. It was truly magical."
+    },
+    "Response 9": {
+        "Jackson": "That sounds absolutely stunning! Did you pick up any souvenirs to remember your trip by?",
+        "Gregory": "I got a beautiful handcrafted leather journal from Florence to document all my travel memories."
+    },
+    "Response 10": {
+        "Jackson": "That's a wonderful keepsake! Would you go back to Europe again in the future?",
+        "Gregory": "Definitely! There's still so much more to explore and experience, I can't wait to go back someday."
+    }
+}

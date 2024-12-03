@@ -1,0 +1,37 @@
+{
+    "Response 1": {
+        "Roydon": "I can't believe how terrible my trip to Thailand was. Everything went wrong.",
+        "Dory": "Oh no, what happened? Did you miss your flight?"
+    },
+    "Response 2": {
+        "Roydon": "No, it was worse than that. The hotel lost my reservation and I had to sleep on the streets.",
+        "Dory": "That sounds awful. Did you at least get to see some sights during the day?"
+    },
+    "Response 3": {
+        "Roydon": "I tried to, but everywhere I went, I just kept getting ripped off by the locals.",
+        "Dory": "That must have been frustrating. Did you try any of the street food at least?"
+    },
+    "Response 4": {
+        "Roydon": "I did, but I got food poisoning and spent the rest of the trip in the hospital.",
+        "Dory": "That's terrible luck. Did you manage to salvage any part of the trip at all?"
+    },
+    "Response 5": {
+        "Roydon": "Not really. I was so angry the whole time, I couldn't enjoy anything.",
+        "Dory": "I'm sorry to hear that, Roydon. Maybe you can plan a better trip next time."
+    },
+    "Response 6": {
+        "Roydon": "I don't think I ever want to travel again. It's just not worth the hassle.",
+        "Dory": "I understand how you feel, but don't let one bad experience ruin it for you forever."
+    },
+    "Response 7": {
+        "Roydon": "Easy for you to say. You weren't the one stuck in a foreign country with nothing going right.",
+        "Dory": "I know, but sometimes these things happen. You just have to try and make the best of it."
+    },
+    "Response 8": {
+        "Roydon": "I'll try to remember that for next time, but right now, I just need to vent about how awful it was.",
+        "Dory": "Vent all you need to, Roydon. I'm here to listen and support you through it all."
+    },
+    "Response 9": {
+        "Roydon": "Thanks, Dory. I appreciate you being there for me, even when I'm at my angriest."
+    }
+}

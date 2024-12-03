@@ -1,0 +1,30 @@
+{
+    "Response 1": {
+        "Mary": "Hey Gregory im looking for new games! Any recommendations?",
+        "Gregory": "Hey Mary, have you ever played Valorant? It's my favorite game right now!"
+    },
+    "Response 2": {
+        "Mary": "I haven't tried Valorant yet, but I've heard great things about it. What do you love most about it?",
+        "Gregory": "I love the strategic gameplay and the unique character abilities. It's so intense and keeps me on the edge of my seat!"
+    },
+    "Response 3": {
+        "Mary": "That sounds really exciting! I'm more into casual games, any recommendations for something similar but less intense?",
+        "Gregory": "You might enjoy Overwatch! It has a similar team-based gameplay, but it's a bit more laid back and colorful."
+    },
+    "Response 4": {
+        "Mary": "Oh, I've heard of Overwatch! I'll definitely give it a try. Thanks for the recommendation, Gregory!",
+        "Gregory": "No problem, Mary! Let me know how you like it. Do you have any favorite game genres besides casual games?"
+    },
+    "Response 5": {
+        "Mary": "I'm a big fan of puzzle games and RPGs. Do you have any favorites in those genres?",
+        "Gregory": "For puzzle games, you should check out Portal 2. It's a classic with mind-bending puzzles and a great storyline."
+    },
+    "Response 6": { 
+        "Mary": "Portal 2 sounds right up my alley! And how about RPGs? Any recommendations for a newbie like me?",
+        "Gregory": "You should start with The Witcher 3. It has an amazing open world, engaging story, and rich characters. You'll get lost in its world for hours!"
+    },
+    "Response 7": {
+        "Mary": "The Witcher 3 sounds like a fantastic adventure! I can't wait to dive into it. Thanks for the suggestion, Gregory!",
+        "Gregory": "You're welcome, Mary! Let me know if you need any tips or if you want to discuss your progress in any of these games. Happy gaming!"
+    }
+}

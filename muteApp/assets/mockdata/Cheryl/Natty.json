@@ -1,0 +1,38 @@
+{
+    "Response 1": {
+        "Natty": "Hey Cheryl, I heard you're planning to do a marathon! That's awesome, how's the training going?",
+        "Cheryl": "Hey Natty! Yeah, I'm excited but also a bit nervous. Training has been tough but I'm pushing through."
+    },
+    "Response 2": {
+        "Natty": "That's great to hear! Remember to listen to your body and not overdo it. Have you been following a specific training plan?",
+        "Cheryl": "Thanks for the advice, Natty! I've been following a beginner's plan I found online. It's been helpful in keeping me on track."
+    },
+    "Response 3": {
+        "Natty": "That's smart, having a plan definitely helps. How are you feeling about the distance? It can be quite challenging for beginners.",
+        "Cheryl": "I'm a bit intimidated by the distance, to be honest. But I'm taking it one step at a time and trying to build up my endurance."
+    },
+    "Response 4": {
+        "Natty": "That's the right approach, Cheryl. Consistency is key when it comes to marathon training. Have you thought about your nutrition during the training?",
+        "Cheryl": "I've been trying to eat healthier and stay hydrated, but I know I need to pay more attention to my nutrition as the mileage increases."
+    },
+    "Response 5": {
+        "Natty": "It's good that you're aware of the importance of nutrition. Maybe consider consulting a nutritionist to ensure you're fueling your body properly for the training.",
+        "Cheryl": "That's a great suggestion, Natty. I'll look into that. Have you ever done a marathon before? Any tips for a newbie like me?"
+    },
+    "Response 6": {
+        "Natty": "Yes, I've done a few marathons. One tip I can give you is to pace yourself during the race. It's easy to get caught up in the excitement and start too fast.",
+        "Cheryl": "That's valuable advice, Natty. I'll make sure to start at a comfortable pace and not burn out too quickly. How do you stay motivated during the long training runs?"
+    },
+    "Response 7": {
+        "Natty": "I usually set small goals for each run and reward myself after completing them. It helps break down the distance into manageable chunks. Do you have a support system for your training?",
+        "Cheryl": "That's a good strategy, Natty. My friends and family have been supportive, cheering me on and joining me for some training runs. It really helps keep me motivated."
+    },
+    "Response 8": {
+        "Natty": "That's wonderful to hear, Cheryl. Having a support system can make a big difference in staying motivated and accountable. How do you handle any setbacks or challenges during training?",
+        "Cheryl": "I try to stay positive and remind myself that setbacks are a natural part of the process. I also listen to my body and take rest when needed to prevent injuries."
+    },
+    "Response 9": {
+        "Natty": "That's a healthy mindset to have, Cheryl. It's important to prioritize your well-being and not push yourself too hard. Are you looking forward to the marathon day itself?",
+        "Cheryl": "I have a mix of excitement and nerves about the marathon day, Natty. I can't wait to experience the atmosphere and sense of accomplishment, but I also know it will be a tough challenge."
+    }
+}
