@@ -160,8 +160,8 @@ async def text_to_speech(response: str = Form(...)):
     audio_output = convert_text_to_speech(response)
     if not audio_output:
         raise HTTPException(status_code=500, detail="Failed to convert text to speech")
-    
-    audio_file_path = "C:\\Roydon\\Github\\FYP_Application\\MuteCompanion\\backend\\static\\response.mp3"
+    #C:\\Roydon\\Github\\FYP_Application\\MuteCompanion\\backend\\static\\response.mp3
+    audio_file_path = "C:\\Roydon\\Github\\FYP_V2\\backend\\static\\response.mp3"
     with open(audio_file_path, "wb") as f:
         f.write(audio_output)
 
@@ -171,7 +171,8 @@ async def text_to_speech(response: str = Form(...)):
 # Store conversation (Response selected and normal persons prompts/query)
 @app.post("/store-response/")
 async def store_response(mute: str = Form(...), normal: str = Form(...), query: str = Form(...), response: str = Form(...)):
-    filename = f"C:\\Roydon\\Github\\FYP_Application\\MuteCompanion\\MuteApp\\assets\\mockdata\\{mute}\\{normal}.json"
+    # C:\\Roydon\\Github\\FYP_Application\\MuteCompanion\\MuteApp\\assets\\mockdata
+    filename = f"C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\{mute}\\{normal}.json"
     store_conversation(filename, mute, normal, query, response)
     return {"message": "Conversation stored successfully"}
 

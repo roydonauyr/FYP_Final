@@ -20,6 +20,10 @@ Email: roydonauyrfyp1
 
 # Frontend Versions
 1. Expo: SDK 52
+2. Nvm installer from correy to manage node versions
+3. Node v22.12.0
+4. Follow package.json
 
 
 # Backend Versions
+1. Follow requirements.txt

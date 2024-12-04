@@ -22,5 +22,21 @@
     "Response 6": {
         "Matt": "I'm planning to visit the gym this weekend to check out their facilities and maybe sign up for a membership. I'm feeling really excited about this new chapter in my life.",
         "Jane": "That's great to hear! Once you become a member, we can even plan some workout sessions together to keep each other accountable. It's always more fun to exercise with a friend. Are you ready to take this step towards a healthier lifestyle?"
+    },
+    "Response 7": {
+        "Matt": "Hi Jane, how have you been? What are you up to?",
+        "Jane": "Lately, I've been finding joy in gardening."
+    },
+    "Response 8": {
+        "Matt": "Well, what have you been growing in your garden?",
+        "Jane": "I've started with some herbs like basil and mint, and I'm thinking of planting some vegetables too."
+    },
+    "Response 9": {
+        "Matt": "Well besides gardening, what are you planning to crochet?",
+        "Jane": "I might try making some cute animals"
+    },
+    "Response 10": {
+        "Matt": "Are you planning to travel anywhere?",
+        "Jane": "Maybe to new zealand"
     }
 }
