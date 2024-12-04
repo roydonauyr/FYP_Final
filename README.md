@@ -26,3 +26,4 @@ Email: roydonauyrfyp1
 
 
 # Backend Versions
+1. Follow requirements.txt
