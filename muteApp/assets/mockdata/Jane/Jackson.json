@@ -46,5 +46,9 @@
     "Response 12": {
         "Jackson": "Hi Jane, what are you up to?",
         "Jane": "I've picked up gardening and started growing basil"
+    },
+    "Response 13": {
+        "Jackson": "Hi Jane, how have you been? What are you up to?",
+        "Jane": "I've been focusing on my painting hobby lately."
     }
 }

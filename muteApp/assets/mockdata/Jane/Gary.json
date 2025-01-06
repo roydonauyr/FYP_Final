@@ -26,5 +26,17 @@
     "Response 7": {
         "Gary": "Thank you for being so accommodating! I think that's all for now. I'm excited to see the final result of the bee. I appreciate your time and effort in making it for me.",
         "Jane": "You're very welcome, Gary! I'm happy to create something special for you. I'll keep you updated on the progress of the bee. I hope it turns out exactly how you envision it. Let me know if you have any other ideas in the future!"
+    },
+    "Response 8": {
+        "Gary": "Hi Jane, how are you? What are you up to?",
+        "Jane": "Hey Gary, I've taken up gardening as a new hobby recently."
+    },
+    "Response 9": {
+        "Gary": "Hi Jane, so what have you been growing in your garden?",
+        "Jane": "I've started with some herbs like basil and mint."
+    },
+    "Response 10": {
+        "Gary": "Besides gardening, do you have any other hobbies?",
+        "Jane": "I enjoy travelling."
     }
 }
