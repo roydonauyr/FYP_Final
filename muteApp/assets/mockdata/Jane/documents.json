@@ -438,45 +438,5 @@
             "topic": "hobbies"
         },
         "page_content": "{\"Xavier\": \"Anytime, Jane! I'm always here to support you in your hobbies and endeavors. Let's keep in touch and share our progress with each other.\", \"Jane\": \"Absolutely! It's always more fun to share our achievements and challenges together. I'm looking forward to our crocheting adventures ahead!\"}"
-    },
-    {
-        "metadata": {
-            "label": "Response 8",
-            "source": "C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\Jane\\Gary.json",
-            "file_name": "C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\Jane\\Gary.json",
-            "topic": "general",
-            "id": "d9b558f9-8a0f-4fe7-851c-867bb2433b5e"
-        },
-        "page_content": "{'Gary': 'Hi Jane, how are you? What are you up to?', 'Jane': \"Hey Gary, I've taken up gardening as a new hobby recently.\"}"
-    },
-    {
-        "metadata": {
-            "label": "Response 9",
-            "source": "C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\Jane\\Gary.json",
-            "file_name": "C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\Jane\\Gary.json",
-            "topic": "gardening",
-            "id": "e21cbeab-e8a8-4efe-a1b9-ba799c6d3428"
-        },
-        "page_content": "{'Gary': 'Hi Jane, so what have you been growing in your garden?', 'Jane': \"I've started with some herbs like basil and mint.\"}"
-    },
-    {
-        "metadata": {
-            "label": "Response 10",
-            "source": "C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\Jane\\Gary.json",
-            "file_name": "C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\Jane\\Gary.json",
-            "topic": "hobbies",
-            "id": "ebec9440-bbfe-43b4-9062-5019c5edb3d4"
-        },
-        "page_content": "{'Gary': 'Besides gardening, do you have any other hobbies?', 'Jane': 'I enjoy travelling.'}"
-    },
-    {
-        "metadata": {
-            "label": "Response 13",
-            "source": "C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\Jane\\Jackson.json",
-            "file_name": "C:\\Roydon\\Github\\FYP_V2\\muteApp\\assets\\mockdata\\Jane\\Jackson.json",
-            "topic": "general",
-            "id": "0a564282-1b41-4544-a9d0-8651e0695a33"
-        },
-        "page_content": "{'Jackson': 'Hi Jane, how have you been? What are you up to?', 'Jane': \"I've been focusing on my painting hobby lately.\"}"
     }
 ]
