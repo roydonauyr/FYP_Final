@@ -1,3 +1,8 @@
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/FYP_Final)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/FYP_Final)
+![GitHub language count](https://img.shields.io/github/languages/count/FYP_Final)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/FYP_Final)
+
 # Project Overview
 A generative ai mobile application that would serve as a companion for mute individuals to assist them in their conversations with a normal speaker. The application improves the convenience of mute users by generating personalized responses at real time for them to pick to reply to a normal speaker. Overtime, the app grows with the users by learning their habits and past experiences therefore improving the quality of generated responses to become more personal. Lastly, to enhance greater flexibility for the mute user, they are also able to edit the generated responses directly and provide feedback to the ai model through liking or disliking certain responses.
 
